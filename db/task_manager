@@ -1,15 +1,27 @@
 ---
 tasks:
 - id: 1
-  title: Test2
-  description: This is the second test task
+  title: Your First Painful Task
+  description: It's painful, give up now now now now.
 - id: 2
-  title: test 3
-  description: third attempt
+  title: Your Second Meaningless Task
+  description: It's meaningless, give up now.
 - id: 3
-  title: Task 4
-  description: This is task 4
+  title: Your Third Soul-Sucking Task
+  description: It's soul-sucking, give up now.
 - id: 4
-  title: Task 5
-  description: This is task 5, redux
-total: 4
+  title: Your Fourth Futile Task
+  description: It's futile, give up now.
+- id: 5
+  title: Your Fifth Important Task
+  description: Actually, you may want to do this one.
+- id: 6
+  title: Test
+  description: do it
+- id: 7
+  title: Test 10
+  description: This is a description
+- id: 8
+  title: Your First Painful Task
+  description: It's painful, so painful, give up now.
+total: 8
